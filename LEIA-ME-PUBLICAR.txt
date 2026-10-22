@@ -1,0 +1,73 @@
+TRUCKER CAP RITMOS DE BATERIA — VERSÃO INSTALÁVEL / OFFLINE 24
+50 levadas, 100 trechos candidatos de virada, processamento de BPM, desenho e rodapé.
+
+ESCOLHA UM CAMINHO — NÃO ENVIE OS DOIS PACOTES PARA O MESMO REPOSITÓRIO
+
+A) MAIS SIMPLES: ZIP COMPLETO + GITHUB DESKTOP
+1. Baixe TRUCKER-CAP-COMPLETO-GITHUB-VERCEL.zip e extraia no computador.
+2. No GitHub Desktop: File > New repository. Crie o repositório em uma pasta vazia.
+3. Copie TODO o conteúdo extraído para a pasta desse repositório.
+   index.html, vercel.json, sw.js e assets devem ficar diretamente na raiz.
+   Não crie uma pasta dist nem uma pasta extra envolvendo o aplicativo.
+4. No Desktop, revise os arquivos, escreva a mensagem e clique Commit to main.
+5. Clique Publish repository. Para proteger o repositório, mantenha Keep this code private marcado.
+6. Esse envio usa Git: o limite de 100 arquivos do formulário do navegador não se aplica.
+Se o repositório já existir, use File > Clone repository, copie os arquivos para a pasta clonada,
+revise as substituições e use Commit e Push origin.
+
+B) PELO SITE DO GITHUB: TRÊS ZIPs COM MENOS DE 100 ARQUIVOS CADA
+1. Crie um novo repositório no GitHub.
+2. Extraia cada ZIP PARTE-1, PARTE-2 e PARTE-3 em uma pasta separada.
+3. Abra Add file > Upload files na RAIZ do repositório.
+4. Arraste o CONTEÚDO da pasta extraída da PARTE-1 para a página. Não arraste a pasta externa
+   com o nome PARTE-1: arraste os arquivos e as pastas que estão DENTRO dela.
+5. Confirme Commit changes. Repita para a PARTE-2 e depois para a PARTE-3.
+6. Preserve a estrutura: assets/ritmos/... não pode virar arquivos soltos na raiz.
+   Nas partes, a pasta assets tem conteúdo complementar: acrescente, não apague as anteriores.
+7. Só importe na Vercel DEPOIS de concluir as três partes.
+IMPORTANTE: o GitHub não extrai ZIPs para montar o app. Envie os arquivos EXTRAÍDOS,
+não os ZIPs. Os ZIPs PARTEs são lotes independentes; não são volumes .z01/.z02.
+
+VERCEL — MESMO PROJETO, SEM SEGUNDO APP
+1. Acesse sua conta da Vercel > Add New > Project > Import Git Repository.
+2. Selecione o repositório completo criado acima.
+3. Root Directory: raiz do repositório (padrão). Framework Preset: Other.
+4. Build Command: vazio (sem build). Install Command: vazio. Output Directory: .
+   O arquivo vercel.json já contém essas configurações.
+5. Clique Deploy. Aguarde o endereço HTTPS. Não envie um ZIP ao painel esperando
+   que ele extraia o projeto; use a importação do GitHub.
+6. Alterações futuras enviadas ao repositório podem disparar novas publicações na Vercel.
+
+GITHUB PAGES (OPCIONAL, ALTERNATIVA À VERCEL)
+Se seu plano/repositório permitir, Settings > Pages > Deploy from a branch > main > / (root).
+A disponibilidade para repositórios privados depende do plano. Não é necessário ativar
+GitHub Pages para importar o código na Vercel.
+
+INSTALAR NO APARELHO
+Android: abrir o endereço HTTPS no Chrome > Instalar aplicativo.
+Windows: Chrome/Edge > Instalar aplicativo.
+iPhone/iPad: Safari > Compartilhar > Adicionar à Tela de Início; Abrir como App da Web se aparecer.
+Mac Sonoma 14+: Safari > Arquivo > Adicionar ao Dock, ou instalação por Chrome/Edge.
+Após instalar, ABRA PELO ÍCONE e use Ritmos offline > Baixar todos os ritmos.
+Espere Biblioteca offline completa. O download de áudio é de cerca de 166 MiB,
+mais interface/imagens. Não basta instalar o ícone para ter todos os áudios offline.
+Não abra index.html por duplo clique (file://) para validar instalação/offline; precisa de HTTPS.
+
+CONTEÚDO E LIMITES
+O limite do GitHub é de até 100 arquivos POR ENVIO no navegador, não por repositório;
+nesse envio cada arquivo pode ter até 25 MiB. Todos os arquivos deste app ficam abaixo disso.
+O projeto é estático: não precisa npm install, servidor Node nem chave de API.
+As 50 levadas e o download offline foram testados por automação. Instalação e execução
+em aparelhos físicos Android, iOS, Windows e Mac ainda exigem homologação.
+Viradas/BPMs com indicação em revisão continuam sujeitos à conferência musical.
+
+MANTENHA OS ARQUIVOS DE INSTALAÇÃO
+Não remova manifest.webmanifest, sw.js, offline-assets.js, pwa.js nem assets/icons.
+Ao trocar WAVs ou scripts em uma atualização, é necessário regenerar o inventário offline
+usando o projeto de desenvolvimento; não reutilize hashes antigos para áudios novos.
+
+FONTES OFICIAIS
+GitHub: https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository
+Vercel: https://vercel.com/docs/builds/configure-a-build
+Apple iPhone: https://support.apple.com/pt-br/guide/iphone/iphea86e5236/ios
+Apple Mac: https://support.apple.com/pt-br/104996
