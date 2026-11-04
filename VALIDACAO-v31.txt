@@ -1,0 +1,18 @@
+VALIDAÇÃO TÉCNICA v31 — 04/11/2026
+
+Concluído em Chromium automatizado (Linux), largura móvel 390 px:
+- 101 modelos e três viradas disponíveis por modelo.
+- Oito posições de pedal, captura de PageDown, detecção de duplicidade, cancelamento e persistência após recarregar.
+- Retorno dos ajustes de ritmo (BPM, volume e levada) ao trocar de ritmo e recarregar.
+- Reprodução real do áudio, processamento de BPM pelo Worker e virada intermediária em BPM modificado.
+- Retorno à levada C e sequência de agendamento contínua, sem lacuna no cronograma dos buffers.
+- Aprendizado MIDI com notas e CC, disparo apenas na borda de acionamento, sem repetição enquanto mantido pressionado (eventos simulados).
+- Sem erros JavaScript nessa sequência e sem rolagem horizontal na largura testada.
+
+Verificações de arquivos:
+- 303 viradas com hashes distintos dentro de cada modelo, duração de um compasso no BPM do catálogo, sem silêncio completo ou clipping digital.
+- 101 acompanhamentos de oito compassos reconstruídos por consenso espectral na posição métrica; duração, ausência de silêncio completo e clipping conferidos.
+- Três viradas por ritmo preservadas da versão anterior; 303 hashes conferidos.
+- 404 arquivos no manifesto offline; hashes, tamanhos e arquivos do shell conferidos.
+
+Limites: não houve aprovação musical por audição humana nem teste com pedal físico, iOS, Android, Windows ou Mac reais. Os testes de agendamento verificam a continuidade programada, não medem latência/estalos em todos os aparelhos. Os BPM e compassos estimados vieram do catálogo original. Leia LEIA-ME-PEDAL-E-VIRADAS.txt antes de publicar para clientes.
