@@ -1,0 +1,5 @@
+VERSÃO 32 — 101 ritmos / 303 viradas
+Verificados: integridade de todos os arquivos, duração de um compasso, ausência de silêncio total e clipping digital, hashes do modo offline e sintaxe JavaScript.
+Viradas: rearticulação de trechos do próprio áudio mixado, sem banco externo. Não são gravações de um baterista executando novas viradas e não permitem isolar peças da bateria. Avaliação auditiva de cada estilo ainda necessária.
+iOS: sessão playback quando suportada, desbloqueio síncrono no gesto e timeout de retomada. Sem teste em iPhone/iPad físico neste ambiente.
+Teste de navegador automatizado indisponível por restrição de execução do ambiente.

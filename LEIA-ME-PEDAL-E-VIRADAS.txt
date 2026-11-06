@@ -1,37 +1,15 @@
-TRUCKER CAP RITMOS DE BATERIA — PEDAL E VIRADAS / v31
+VERSÃO 32
+Publique TODO o conteúdo do ZIP no mesmo diretório do aplicativo. Os três arquivos avulsos são cópias idênticas dos arquivos do ZIP, para conveniência; sozinhos não atualizam os novos áudios nem o catálogo.
+Se houver versão antiga instalada, pare o áudio e aplique a atualização no painel de instalação. Baixe os ritmos novamente para atualizar as viradas offline.
 
-O QUE MUDOU
-• 101 ritmos, com três viradas programadas para cada ritmo (303 arquivos).
-• Virada 1: simples; Virada 2: intermediária; Virada 3: intensa.
-• Botões diretos na tela e seleção aleatória, em sequência ou fixa.
-• Virada de um compasso, no BPM atual, com retorno à levada escolhida.
-• As levadas A/B/C/D foram reconstruídas comparando cada tempo com a mesma posição nos oito compassos da gravação: energia em seis faixas de frequência, evolução temporal e recorrência. Tempos atípicos são substituídos por ocorrências mais estáveis da mesma posição métrica.
-• O último tempo de cada compasso utiliza a referência recorrente, reduzindo passagens de final de frase. Acompanhamentos com pouco material estável podem repetir a mesma base em A–D.
-• Oito posições configuráveis para comandos de teclado/Bluetooth HID ou MIDI. Isso não exige um pedal de oito botões: configure apenas os botões que seu pedal possui.
-• Salva automaticamente as funções do pedal e os ajustes de BPM, levada, volume, brilho, reverb e modo de virada de cada ritmo neste navegador/aparelho.
+VIRADAS
+101 ritmos com 3 finais: simples, intermediário e intenso. Os ataques vêm da própria gravação de cada ritmo, para preservar o timbre. São rearticulações de áudio mixado; confira musicalmente antes do uso em show. Entrada no próximo compasso disponível; retorno automático à levada.
 
-COMO CONFIGURAR O PEDAL
-1. Conecte o pedal ao celular/computador. Para pedais M-Vave que emulam teclado, escolha um modo que envie teclas diferentes em cada botão.
-2. Abra “Configurar pedal”. Escolha a função do Botão 1, por exemplo “Virada 1 · Simples”.
-3. Clique “Aprender tecla” e pressione o botão físico correspondente. Repita nas demais linhas.
-4. Para MIDI, clique “Conectar pedal MIDI”, autorize o navegador e use “Aprender MIDI” em cada linha. Aceita notas e CC com acionamento em 64–127 e liberação em 0–63. O mesmo comando, canal e número não pode ser atribuído a duas linhas. Uma nota precisa ser liberada antes de novo disparo.
-5. Use “Testar” para testar a função pela tela. “Limpar” remove os comandos daquela linha. Esc ou “Cancelar aprendizado” interrompe a captura.
-6. Configuração sugerida de dois botões: Botão 1 = iniciar/parar; Botão 2 = virada no modo escolhido. Com quatro botões: iniciar/parar + viradas 1, 2 e 3.
+PEDAL
+Abra Configuração do pedal. Há 8 atribuições independentes. Escolha função, clique Aprender tecla e pise. Para MIDI, conecte primeiro e use Aprender MIDI. A configuração é salva no aparelho.
+Funções: virada no modo selecionado, viradas 1/2/3, cancelar virada armada, iniciar/parar, finalizar, levadas A/B/C/D, próxima/anterior levada ou ritmo, BPM +/-1 ou 5, tap tempo, volume, mute, favorito, palco.
+No iPhone, use um pedal em modo teclado; Web MIDI pode não estar disponível.
 
-FUNÇÕES DISPONÍVEIS
-Virada no modo escolhido; viradas 1/2/3; iniciar/parar; iniciar; parar; finalizar; levadas A/B/C/D; próxima/anterior levada; próximo/anterior ritmo; BPM ±1 e ±5; Tap Tempo; volume ±5; silenciar/reativar; favoritar; modo palco; sem função.
-
-EXECUÇÃO
-Inicie a levada e acione a virada. Ela é preparada sem parar o acompanhamento e entra no próximo compasso que ainda não foi agendado. O retorno mantém a levada selecionada. Se você escolher outra levada durante a virada, o retorno segue essa escolha. Ao alterar BPM, espere o processamento terminar antes de pedir uma virada. O modo padrão mantém a levada escolhida; a alternância A–D é opcional.
-
-CONFERÊNCIA MUSICAL NECESSÁRIA
-As três viradas são arranjos programados com o banco de sons de bateria/percussão que já acompanhava o aplicativo. Não são novas execuções gravadas por um baterista e o timbre pode diferir da gravação original, especialmente em ritmos eletrônicos. Os compassos de acompanhamento foram escolhidos automaticamente por recorrência espectral em cada posição métrica; isso reduz passagens, mas não garante remover toda virada embutida ou corrigir BPM/primeiro tempo estimados. Confira os 101 ritmos antes de vender esta atualização como versão musicalmente aprovada. O arquivo conferencia-viradas.json registra os compassos usados. Nenhuma aprovação auditiva humana foi realizada nesta entrega.
-
-PUBLICAR / ATUALIZAR
-Extraia o ZIP e substitua o conteúdo do projeto pelos arquivos extraídos, mantendo index.html na raiz. Faça commit/push e aguarde o deploy na sua hospedagem. Não é preciso publicar pelo ChatGPT. No app já instalado, use “Aplicar atualização” quando aparecer. Depois baixe novamente os ritmos para uso offline: os arquivos de áudio e o manifesto de cache foram atualizados.
-
-COMPATIBILIDADE
-Teclado/Bluetooth HID depende do modo do pedal e de o app estar em primeiro plano. MIDI depende do navegador, da permissão e da conexão; em iPhone/iPad prefira modo teclado. O aprendizado foi testado com eventos simulados de teclado e MIDI; não houve teste com um pedal físico.
-
-VERSÃO 31
-Esta versão substitui a seleção por volume da v30 por análise espectral por tempo, reconstrução das passagens atípicas e final de compasso recorrente. Os BPM e compassos continuam baseados no catálogo original. Esse processamento não equivale a uma revisão por audição e não garante eliminar uma passagem que já se repita regularmente na gravação.
+iPHONE / iPAD
+Abra no Safari ou no ícone instalado, toque TOCAR e confira o volume de mídia e a saída Bluetooth. O app solicita sessão de reprodução e libera o motor no toque. Após ligações ou bloqueio de tela, toque em TOCAR novamente.
+A correção ainda precisa de validação em aparelho real; não há garantia de reprodução em segundo plano.

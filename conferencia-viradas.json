@@ -1,4877 +1,709 @@
 [
   {
     "id": "rock-6-8",
-    "nome": "Rock · 6/8",
-    "bpm": 70.0,
-    "compasso": "6/8",
-    "compassosFonteABCD": [
-      1,
-      8,
-      3,
-      4
-    ],
-    "referenciaPorTempo": [
-      4,
-      1
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 1
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/rock/rock-6-8.wav",
+    "metrica": "6/8",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "arrocha-01",
-    "nome": "Arrocha · modelo 1",
-    "bpm": 140.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      8,
-      1,
-      6,
-      2
-    ],
-    "referenciaPorTempo": [
-      2,
-      6,
-      1,
-      8
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/arrocha/arrocha-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "arrocha-02",
-    "nome": "Arrocha · modelo 2",
-    "bpm": 140.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      4,
-      8,
-      6,
-      7
-    ],
-    "referenciaPorTempo": [
-      1,
-      8,
-      4,
-      4
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 4
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/arrocha/arrocha-02.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "axe-chicabana",
-    "nome": "Axé Chicabana",
-    "bpm": 90.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      3,
-      7,
-      1,
-      4
-    ],
-    "referenciaPorTempo": [
-      7,
-      2,
-      1,
-      3
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 1
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/axe/axe-chicabana.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "axe-galopada",
-    "nome": "Axé Galopada",
-    "bpm": 180.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      2,
-      6,
-      8,
-      5
-    ],
-    "referenciaPorTempo": [
-      2,
-      6,
-      5,
-      2
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/axe/axe-galopada.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "axe-02",
-    "nome": "Axé · modelo 2",
-    "bpm": 125,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      2,
-      8,
-      4,
-      2
-    ],
-    "referenciaPorTempo": [
-      7,
-      8,
-      2,
-      2
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ],
-      []
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/axe/axe-02.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "bachata-01",
-    "nome": "Bachata",
-    "bpm": 140,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      4,
-      3,
-      2,
-      7
-    ],
-    "referenciaPorTempo": [
-      3,
-      2,
-      4,
-      3
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 2
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 2
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/latinos/bachata-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "baiao-02",
-    "nome": "Baião · modelo 2",
-    "bpm": 105,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      7,
-      7,
-      7,
-      7
-    ],
-    "referenciaPorTempo": [
-      7,
-      7
-    ],
-    "substituicoesABCD": [
-      [],
-      [],
-      [],
-      []
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/forro/baiao-02.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "baiao-01",
-    "nome": "Baião · modelo 1",
-    "bpm": 100,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      8,
-      1,
-      8,
-      1
-    ],
-    "referenciaPorTempo": [
-      1,
-      8
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 8
-        }
-      ],
-      [],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 8
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/forro/baiao-01.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "bandinha-01",
-    "nome": "Bandinha",
-    "bpm": 134,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      4,
-      6,
-      5,
-      3
-    ],
-    "referenciaPorTempo": [
-      5,
-      4,
-      4,
-      4
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 4
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/bandinha/bandinha-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "blues-01",
-    "nome": "Blues",
-    "bpm": 60,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      1,
-      8,
-      6,
-      5
-    ],
-    "referenciaPorTempo": [
-      6,
-      8,
-      8,
-      1
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 8
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/blues/blues-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "bolero-01",
-    "nome": "Bolero",
-    "bpm": 110,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      5,
-      5,
-      5,
-      5
-    ],
-    "referenciaPorTempo": [
-      5,
-      5,
-      2,
-      5
-    ],
-    "substituicoesABCD": [
-      [],
-      [],
-      [],
-      []
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/latinos/bolero-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "bossa-nova-01",
-    "nome": "Bossa Nova",
-    "bpm": 121,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      5,
-      1,
-      5,
-      1
-    ],
-    "referenciaPorTempo": [
-      1,
-      5,
-      5,
-      5
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ],
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/bossa-nova/bossa-nova-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "country-01",
-    "nome": "Country",
-    "bpm": 95,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      5,
-      5,
-      5,
-      5
-    ],
-    "referenciaPorTempo": [
-      3,
-      3,
-      5,
-      5
-    ],
-    "substituicoesABCD": [
-      [],
-      [],
-      [],
-      []
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/country/country-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "forro-zabumba-triangulo",
-    "nome": "Forró · zabumba e triângulo",
-    "bpm": 100,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      8,
-      4,
-      8,
-      4
-    ],
-    "referenciaPorTempo": [
-      5,
-      8
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 8
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/forro/forro-zabumba-triangulo.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "forro-01",
-    "nome": "Forró",
-    "bpm": 150,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      6,
-      6,
-      6,
-      6
-    ],
-    "referenciaPorTempo": [
-      7,
-      6
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 7
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/forro/forro-01.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "guarania-02",
-    "nome": "Guarânia · modelo 2",
-    "bpm": 112,
-    "compasso": "3/4",
-    "compassosFonteABCD": [
-      5,
-      5,
-      5,
-      5
-    ],
-    "referenciaPorTempo": [
-      6,
-      5,
-      5
-    ],
-    "substituicoesABCD": [
-      [],
-      [],
-      [],
-      []
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/guarania/guarania-02.wav",
+    "metrica": "3/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "guarania-01",
-    "nome": "Guarânia · modelo 1",
-    "bpm": 110,
-    "compasso": "3/4",
-    "compassosFonteABCD": [
-      3,
-      2,
-      3,
-      2
-    ],
-    "referenciaPorTempo": [
-      2,
-      7,
-      3
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 3
-        }
-      ],
-      [],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 3
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/guarania/guarania-01.wav",
+    "metrica": "3/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "jazz-01",
-    "nome": "Jazz",
-    "bpm": 110,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      2,
-      7,
-      3,
-      4
-    ],
-    "referenciaPorTempo": [
-      7,
-      7,
-      1,
-      2
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/jazz/jazz-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "lambada-01",
-    "nome": "Lambada · modelo 1",
-    "bpm": 125,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      2,
-      1,
-      5,
-      6
-    ],
-    "referenciaPorTempo": [
-      6,
-      1,
-      5,
-      2
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/latinos/lambada-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "lambada-02",
-    "nome": "Lambada · modelo 2",
-    "bpm": 126,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      8,
-      5,
-      3,
-      6
-    ],
-    "referenciaPorTempo": [
-      8,
-      3,
-      8,
-      5
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/latinos/lambada-02.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "vaneira-01",
-    "nome": "Vaneira",
-    "bpm": 100,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      8,
-      8,
-      8,
-      8
-    ],
-    "referenciaPorTempo": [
-      8,
-      8
-    ],
-    "substituicoesABCD": [
-      [],
-      [],
-      [],
-      []
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/gauchos/vaneira-01.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "xote-02",
-    "nome": "Xote · modelo 2",
-    "bpm": 92,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      1,
-      7,
-      1,
-      7
-    ],
-    "referenciaPorTempo": [
-      7,
-      1
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 1
-        }
-      ],
-      [],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 1
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/forro/xote-02.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "marcha-rancho-01",
-    "nome": "Marcha Rancho",
-    "bpm": 95,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      8,
-      2,
-      8,
-      2
-    ],
-    "referenciaPorTempo": [
-      1,
-      2,
-      7,
-      8
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 7
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 7
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/carnaval/marcha-rancho-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "marchinha-01",
-    "nome": "Marchinha de Carnaval",
-    "bpm": 145,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      5,
-      3,
-      7,
-      1
-    ],
-    "referenciaPorTempo": [
-      8,
-      5
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 8
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 8
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 8
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/carnaval/marchinha-01.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "olodum-01",
-    "nome": "Olodum · samba-reggae",
-    "bpm": 100,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      1,
-      3,
-      7,
-      1
-    ],
-    "referenciaPorTempo": [
-      7,
-      3,
-      3,
-      1
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 7
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 7
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 7
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 3
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/axe/olodum-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "pagodao-baiano-01",
-    "nome": "Pagodão Baiano",
-    "bpm": 76,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      4,
-      1,
-      6,
-      2
-    ],
-    "referenciaPorTempo": [
-      1,
-      2,
-      4,
-      1
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/axe/pagodao-baiano-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "pagode-90",
-    "nome": "Pagode · 90",
-    "bpm": 90,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      8,
-      1,
-      4,
-      5
-    ],
-    "referenciaPorTempo": [
-      1,
-      4,
-      8,
-      8
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 1
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/samba-pagode/pagode-90.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "pagode-swing",
-    "nome": "Pagode Swing",
-    "bpm": 112,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      3,
-      7,
-      3,
-      7
-    ],
-    "referenciaPorTempo": [
-      4,
-      3,
-      7,
-      3
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/samba-pagode/pagode-swing.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "pagode-01",
-    "nome": "Pagode · modelo 1",
-    "bpm": 89.78,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      5,
-      1,
-      4,
-      5
-    ],
-    "referenciaPorTempo": [
-      4,
-      5,
-      5,
-      1
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/samba-pagode/pagode-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "pisadinha-01",
-    "nome": "Pisadinha",
-    "bpm": 160,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      1,
-      1,
-      1,
-      1
-    ],
-    "referenciaPorTempo": [
-      1,
-      1
-    ],
-    "substituicoesABCD": [
-      [],
-      [],
-      [],
-      []
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/piseiro/pisadinha-01.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "piseiro-01",
-    "nome": "Piseiro",
-    "bpm": 170,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      3,
-      3,
-      3,
-      3
-    ],
-    "referenciaPorTempo": [
-      2,
-      3
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 2
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/piseiro/piseiro-01.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "polca-paraguaia-01",
-    "nome": "Polca Paraguaia",
-    "bpm": 100,
-    "compasso": "6/8",
-    "compassosFonteABCD": [
-      1,
-      7,
-      5,
-      1
-    ],
-    "referenciaPorTempo": [
-      1,
-      1
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 1
-        }
-      ],
-      []
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/latinos/polca-paraguaia-01.wav",
+    "metrica": "6/8",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "pop-02",
-    "nome": "Pop · modelo 2",
-    "bpm": 80,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      1,
-      6,
-      4,
-      2
-    ],
-    "referenciaPorTempo": [
-      1,
-      4,
-      3,
-      1
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/pop/pop-02.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "pop-04",
-    "nome": "Pop · modelo 4",
-    "bpm": 73,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      5,
-      1,
-      5,
-      1
-    ],
-    "referenciaPorTempo": [
-      5,
-      1,
-      5,
-      5
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ],
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/pop/pop-04.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "rnb-02",
-    "nome": "R&B · modelo 2",
-    "bpm": 95,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      6,
-      4,
-      8,
-      2
-    ],
-    "referenciaPorTempo": [
-      3,
-      8,
-      4,
-      6
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 6
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 6
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 6
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/rnb/rnb-02.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "rnb-01",
-    "nome": "R&B · modelo 1",
-    "bpm": 105,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      2,
-      4,
-      8,
-      6
-    ],
-    "referenciaPorTempo": [
-      2,
-      3,
-      4,
-      1
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/rnb/rnb-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "rancheira-01",
-    "nome": "Rancheira",
-    "bpm": 168,
-    "compasso": "3/4",
-    "compassosFonteABCD": [
-      3,
-      3,
-      3,
-      3
-    ],
-    "referenciaPorTempo": [
-      7,
-      8,
-      3
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 8
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/gauchos/rancheira-01.wav",
+    "metrica": "3/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "reggae-01",
-    "nome": "Reggae · modelo 1",
-    "bpm": 80,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      6,
-      4,
-      8,
-      6
-    ],
-    "referenciaPorTempo": [
-      6,
-      2,
-      3,
-      5
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/reggae/reggae-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "reggae-02",
-    "nome": "Reggae · modelo 2",
-    "bpm": 80,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      6,
-      4,
-      8,
-      6
-    ],
-    "referenciaPorTempo": [
-      6,
-      2,
-      3,
-      5
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/reggae/reggae-02.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "rock-01",
-    "nome": "Rock",
-    "bpm": 125,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      8,
-      1,
-      8,
-      1
-    ],
-    "referenciaPorTempo": [
-      1,
-      8,
-      1,
-      7
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 1
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 8
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 1
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 8
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/rock/rock-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "samba-rock-01",
-    "nome": "Samba Rock",
-    "bpm": 107,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      8,
-      2,
-      4,
-      6
-    ],
-    "referenciaPorTempo": [
-      8,
-      8,
-      2,
-      3
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/samba-pagode/samba-rock-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "samba-01",
-    "nome": "Samba",
-    "bpm": 144,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      1,
-      5,
-      8,
-      1
-    ],
-    "referenciaPorTempo": [
-      2,
-      1
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 2
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 2
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 2
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/samba-pagode/samba-01.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "sertanejo-bachata-arrocha",
-    "nome": "Sertanejo · bachata e arrocha",
-    "bpm": 120,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      8,
-      6,
-      8,
-      6
-    ],
-    "referenciaPorTempo": [
-      1,
-      6,
-      8,
-      8
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/sertanejo/sertanejo-bachata-arrocha.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "sertanejo-lento",
-    "nome": "Sertanejo lento",
-    "bpm": 65,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      5,
-      2,
-      1,
-      7
-    ],
-    "referenciaPorTempo": [
-      1,
-      5,
-      2,
-      5
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 1
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 1
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/sertanejo/sertanejo-lento.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "sofrencia-rapida",
-    "nome": "Sofrência rápida",
-    "bpm": 140.42,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      2,
-      2,
-      2,
-      2
-    ],
-    "referenciaPorTempo": [
-      7,
-      6,
-      2,
-      2
-    ],
-    "substituicoesABCD": [
-      [],
-      [],
-      [],
-      []
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/sertanejo/sofrencia-rapida.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "soul-01",
-    "nome": "Soul",
-    "bpm": 70,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      7,
-      5,
-      7,
-      5
-    ],
-    "referenciaPorTempo": [
-      5,
-      8,
-      5,
-      7
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 8
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 8
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/soul/soul-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "vaneira-gaucha-03",
-    "nome": "Vaneira Gaúcha · modelo 3",
-    "bpm": 86,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      2,
-      3,
-      1,
-      8
-    ],
-    "referenciaPorTempo": [
-      1,
-      2
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 1
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 2
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/gauchos/vaneira-gaucha-03.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "vaneira-sambada",
-    "nome": "Vaneira Sambada",
-    "bpm": 90,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      3,
-      1,
-      5,
-      3
-    ],
-    "referenciaPorTempo": [
-      5,
-      3
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        }
-      ],
-      []
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/gauchos/vaneira-sambada.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "vaneira-02",
-    "nome": "Vaneira · modelo 2",
-    "bpm": 90,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      8,
-      6,
-      1,
-      5
-    ],
-    "referenciaPorTempo": [
-      6,
-      8
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 8
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/gauchos/vaneira-02.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "funk-rock-novo",
-    "nome": "Funk Rock",
-    "bpm": 120.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      7,
-      6,
-      7,
-      6
-    ],
-    "referenciaPorTempo": [
-      6,
-      6,
-      7,
-      7
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 6
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 7
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 6
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 7
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/rock/funk-rock-novo.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "hard-rock-novo",
-    "nome": "Hard Rock",
-    "bpm": 100.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      2,
-      6,
-      2,
-      6
-    ],
-    "referenciaPorTempo": [
-      1,
-      1,
-      3,
-      2
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 1
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ],
-      [],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 1
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/rock/hard-rock-novo.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "pop-rock-novo",
-    "nome": "Pop Rock",
-    "bpm": 105.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      8,
-      2,
-      6,
-      4
-    ],
-    "referenciaPorTempo": [
-      8,
-      8,
-      8,
-      8
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/rock/pop-rock-novo.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "rock-novo",
-    "nome": "Rock · modelo novo",
-    "bpm": 120.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      4,
-      3,
-      7,
-      4
-    ],
-    "referenciaPorTempo": [
-      4,
-      5,
-      4,
-      4
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/rock/rock-novo.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "skate-punk-rock",
-    "nome": "Skate Punk Rock",
-    "bpm": 90.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      4,
-      2,
-      6,
-      8
-    ],
-    "referenciaPorTempo": [
-      2,
-      2,
-      3,
-      4
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 2
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 2
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 2
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 4
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/rock/skate-punk-rock.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "pop-novo-01",
-    "nome": "Pop · nova levada 01",
-    "bpm": 139.7,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      7,
-      6,
-      7,
-      6
-    ],
-    "referenciaPorTempo": [
-      6,
-      7,
-      6,
-      7
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ],
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/pop/pop-novo-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "pop-novo-02",
-    "nome": "Pop · nova levada 02",
-    "bpm": 80.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      2,
-      8,
-      2,
-      8
-    ],
-    "referenciaPorTempo": [
-      2,
-      1,
-      8,
-      2
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ],
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/pop/pop-novo-02.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "pop-novo-03",
-    "nome": "Pop · nova levada 03",
-    "bpm": 100.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      5,
-      7,
-      5,
-      7
-    ],
-    "referenciaPorTempo": [
-      6,
-      2,
-      5,
-      7
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 6
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 6
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/pop/pop-novo-03.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "pop-novo-04",
-    "nome": "Pop · nova levada 04",
-    "bpm": 75.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      2,
-      6,
-      2,
-      6
-    ],
-    "referenciaPorTempo": [
-      2,
-      2,
-      8,
-      3
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/pop/pop-novo-04.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "pop-novo-05",
-    "nome": "Pop · nova levada 05",
-    "bpm": 80.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      4,
-      8,
-      7,
-      4
-    ],
-    "referenciaPorTempo": [
-      6,
-      6,
-      8,
-      7
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 8
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 8
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/pop/pop-novo-05.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "pop-novo-06",
-    "nome": "Pop · nova levada 06",
-    "bpm": 120.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      2,
-      6,
-      4,
-      8
-    ],
-    "referenciaPorTempo": [
-      2,
-      4,
-      2,
-      6
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 6
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 6
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 2
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 6
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/pop/pop-novo-06.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "pop-novo-07",
-    "nome": "Pop · nova levada 07",
-    "bpm": 139.7,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      3,
-      4,
-      3,
-      4
-    ],
-    "referenciaPorTempo": [
-      3,
-      3,
-      3,
-      4
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/pop/pop-novo-07.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "pop-novo-08",
-    "nome": "Pop · nova levada 08",
-    "bpm": 139.7,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      6,
-      6,
-      6,
-      6
-    ],
-    "referenciaPorTempo": [
-      4,
-      8,
-      6,
-      6
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 4
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/pop/pop-novo-08.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "pop-novo-09",
-    "nome": "Pop · nova levada 09",
-    "bpm": 80.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      4,
-      8,
-      4,
-      8
-    ],
-    "referenciaPorTempo": [
-      1,
-      4,
-      8,
-      4
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 4
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/pop/pop-novo-09.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "pop-novo-10",
-    "nome": "Pop · nova levada 10",
-    "bpm": 110.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      2,
-      6,
-      4,
-      7
-    ],
-    "referenciaPorTempo": [
-      3,
-      6,
-      3,
-      7
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 3
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/pop/pop-novo-10.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "mpb-novo-01",
-    "nome": "MPB · modelo 01",
-    "bpm": 97.5,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      8,
-      6,
-      4,
-      2
-    ],
-    "referenciaPorTempo": [
-      6,
-      2,
-      4,
-      8
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/mpb/mpb-novo-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "mpb-novo-02",
-    "nome": "MPB · modelo 02",
-    "bpm": 134.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      5,
-      1,
-      5,
-      1
-    ],
-    "referenciaPorTempo": [
-      5,
-      3,
-      5,
-      2
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/mpb/mpb-novo-02.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "mpb-novo-03",
-    "nome": "MPB · modelo 03",
-    "bpm": 143.6,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      4,
-      4,
-      4,
-      4
-    ],
-    "referenciaPorTempo": [
-      4,
-      5,
-      7,
-      4
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 7
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/mpb/mpb-novo-03.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "mpb-novo-04",
-    "nome": "MPB · modelo 04",
-    "bpm": 91.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      3,
-      1,
-      4,
-      7
-    ],
-    "referenciaPorTempo": [
-      3,
-      3,
-      4,
-      1
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ],
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/mpb/mpb-novo-04.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "mpb-novo-05",
-    "nome": "MPB · modelo 05",
-    "bpm": 77.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      7,
-      5,
-      1,
-      3
-    ],
-    "referenciaPorTempo": [
-      6,
-      5,
-      1,
-      7
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 6
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/mpb/mpb-novo-05.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "mpb-novo-06",
-    "nome": "MPB · modelo 06",
-    "bpm": 100.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      8,
-      3,
-      5,
-      8
-    ],
-    "referenciaPorTempo": [
-      6,
-      7,
-      8,
-      8
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 8
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ],
-      []
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/mpb/mpb-novo-06.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "mpb-novo-07",
-    "nome": "MPB · modelo 07",
-    "bpm": 88.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      2,
-      6,
-      4,
-      3
-    ],
-    "referenciaPorTempo": [
-      6,
-      8,
-      1,
-      2
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 8
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/mpb/mpb-novo-07.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "mpb-novo-08",
-    "nome": "MPB · modelo 08",
-    "bpm": 95.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      2,
-      6,
-      8,
-      2
-    ],
-    "referenciaPorTempo": [
-      2,
-      8,
-      2,
-      1
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 2
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 1
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/mpb/mpb-novo-08.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "mpb-novo-09",
-    "nome": "MPB · modelo 09",
-    "bpm": 95.7,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      5,
-      4,
-      6,
-      5
-    ],
-    "referenciaPorTempo": [
-      6,
-      4,
-      6,
-      5
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 6
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 6
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/mpb/mpb-novo-09.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "mpb-novo-10",
-    "nome": "MPB · modelo 10",
-    "bpm": 132.5,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      5,
-      2,
-      5,
-      2
-    ],
-    "referenciaPorTempo": [
-      5,
-      5,
-      5,
-      2
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 5
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/mpb/mpb-novo-10.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "forro-novo-01",
-    "nome": "Forró · modelo 01",
-    "bpm": 76.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      5,
-      1,
-      7,
-      5
-    ],
-    "referenciaPorTempo": [
-      3,
-      2,
-      2,
-      5
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 2
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 2
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 2
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 2
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 2
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 2
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 2
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/forro/forro-novo-01.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "forro-novo-02",
-    "nome": "Forró · modelo 02",
-    "bpm": 100.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      6,
-      3,
-      6,
-      3
-    ],
-    "referenciaPorTempo": [
-      4,
-      6,
-      6,
-      3
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 6
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 6
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/forro/forro-novo-02.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "forro-novo-03",
-    "nome": "Forró · modelo 03",
-    "bpm": 85.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      1,
-      5,
-      1,
-      5
-    ],
-    "referenciaPorTempo": [
-      6,
-      5,
-      1,
-      5
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 1
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/forro/forro-novo-03.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "forro-novo-04",
-    "nome": "Forró · modelo 04",
-    "bpm": 106.6,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      7,
-      1,
-      7,
-      1
-    ],
-    "referenciaPorTempo": [
-      5,
-      5,
-      4,
-      3
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/forro/forro-novo-04.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "forro-novo-05",
-    "nome": "Forró · modelo 05",
-    "bpm": 90.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      5,
-      6,
-      1,
-      2
-    ],
-    "referenciaPorTempo": [
-      7,
-      7,
-      3,
-      5
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 5
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/forro/forro-novo-05.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "forro-novo-06",
-    "nome": "Forró · modelo 06",
-    "bpm": 95.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      7,
-      6,
-      8,
-      7
-    ],
-    "referenciaPorTempo": [
-      6,
-      7,
-      6,
-      7
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ],
-      []
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/forro/forro-novo-06.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "forro-novo-07",
-    "nome": "Forró · modelo 07",
-    "bpm": 86.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      8,
-      1,
-      3,
-      5
-    ],
-    "referenciaPorTempo": [
-      3,
-      5,
-      7,
-      3
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 7
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/forro/forro-novo-07.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "forro-novo-08",
-    "nome": "Forró · modelo 08",
-    "bpm": 100.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      7,
-      6,
-      8,
-      7
-    ],
-    "referenciaPorTempo": [
-      7,
-      6,
-      8,
-      7
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 7
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 8
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 8
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/forro/forro-novo-08.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "forro-novo-09",
-    "nome": "Forró · modelo 09",
-    "bpm": 139.6,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      6,
-      4,
-      6,
-      4
-    ],
-    "referenciaPorTempo": [
-      3,
-      5,
-      4,
-      6
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 6
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 6
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/forro/forro-novo-09.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "forro-novo-10",
-    "nome": "Forró · modelo 10",
-    "bpm": 79.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      5,
-      4,
-      6,
-      7
-    ],
-    "referenciaPorTempo": [
-      5,
-      5,
-      6,
-      4
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 4
-        }
-      ],
-      [],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 4
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/forro/forro-novo-10.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "samba-novo-01",
-    "nome": "Samba · modelo 01",
-    "bpm": 85.0,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      5,
-      7,
-      5,
-      7
-    ],
-    "referenciaPorTempo": [
-      7,
-      5
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        }
-      ],
-      [],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 5
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/samba/samba-novo-01.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "samba-novo-02",
-    "nome": "Samba · modelo 02",
-    "bpm": 98.0,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      5,
-      5,
-      5,
-      5
-    ],
-    "referenciaPorTempo": [
-      8,
-      5
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 8
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/samba/samba-novo-02.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "samba-novo-03",
-    "nome": "Samba · modelo 03",
-    "bpm": 95.0,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      1,
-      1,
-      1,
-      1
-    ],
-    "referenciaPorTempo": [
-      5,
-      1
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 5
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/samba/samba-novo-03.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "samba-novo-04",
-    "nome": "Samba · modelo 04",
-    "bpm": 77.0,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      7,
-      7,
-      7,
-      7
-    ],
-    "referenciaPorTempo": [
-      3,
-      7
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 3
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/samba/samba-novo-04.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "samba-novo-05",
-    "nome": "Samba · modelo 05",
-    "bpm": 179.7,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      3,
-      3,
-      3,
-      3
-    ],
-    "referenciaPorTempo": [
-      5,
-      3
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 5
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/samba/samba-novo-05.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "samba-novo-06",
-    "nome": "Samba · modelo 06",
-    "bpm": 90.0,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      1,
-      3,
-      7,
-      1
-    ],
-    "referenciaPorTempo": [
-      1,
-      3
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 1
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 1
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/samba/samba-novo-06.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "samba-novo-07",
-    "nome": "Samba · modelo 07",
-    "bpm": 139.7,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      4,
-      4,
-      4,
-      4
-    ],
-    "referenciaPorTempo": [
-      2,
-      4
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 2
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/samba/samba-novo-07.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "samba-novo-08",
-    "nome": "Samba · modelo 08",
-    "bpm": 80.0,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      7,
-      5,
-      3,
-      7
-    ],
-    "referenciaPorTempo": [
-      5,
-      7
-    ],
-    "substituicoesABCD": [
-      [],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 7
-        }
-      ],
-      []
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/samba/samba-novo-08.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "samba-novo-09",
-    "nome": "Samba · modelo 09",
-    "bpm": 90.0,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      3,
-      5,
-      7,
-      1
-    ],
-    "referenciaPorTempo": [
-      4,
-      3
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/samba/samba-novo-09.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "samba-novo-10",
-    "nome": "Samba · modelo 10",
-    "bpm": 139.7,
-    "compasso": "2/4",
-    "compassosFonteABCD": [
-      2,
-      2,
-      2,
-      2
-    ],
-    "referenciaPorTempo": [
-      2,
-      8
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 8
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/samba/samba-novo-10.wav",
+    "metrica": "2/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "electronic-128",
-    "nome": "Electronic",
-    "bpm": 128.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      7,
-      3,
-      1,
-      5
-    ],
-    "referenciaPorTempo": [
-      1,
-      7,
-      7,
-      3
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ],
-      [],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 7
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 3
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/eletronicos/electronic-128.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "hip-hop-105",
-    "nome": "Hip-hop",
-    "bpm": 105.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      8,
-      6,
-      2,
-      8
-    ],
-    "referenciaPorTempo": [
-      2,
-      8,
-      8,
-      8
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 2
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 8
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 2
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/hip-hop/hip-hop-105.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "house-techno-128",
-    "nome": "House · Techno",
-    "bpm": 128.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      4,
-      5,
-      8,
-      3
-    ],
-    "referenciaPorTempo": [
-      3,
-      1,
-      4,
-      8
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 1
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 1
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 1
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 8
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/eletronicos/house-techno-128.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "synthwave-110",
-    "nome": "Synthwave",
-    "bpm": 110.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      7,
-      3,
-      7,
-      3
-    ],
-    "referenciaPorTempo": [
-      3,
-      6,
-      4,
-      7
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 4
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 6
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 4
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 7
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/eletronicos/synthwave-110.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "tech-house-125",
-    "nome": "Tech House",
-    "bpm": 125.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      7,
-      8,
-      6,
-      7
-    ],
-    "referenciaPorTempo": [
-      1,
-      3,
-      2,
-      6
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 6
-        }
-      ],
-      [
-        {
-          "tempo": 3,
-          "compassoFonte": 2
-        },
-        {
-          "tempo": 4,
-          "compassoFonte": 6
-        }
-      ],
-      [
-        {
-          "tempo": 1,
-          "compassoFonte": 1
-        },
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 2
-        }
-      ],
-      [
-        {
-          "tempo": 4,
-          "compassoFonte": 6
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/eletronicos/tech-house-125.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   },
   {
     "id": "trap-150",
-    "nome": "Trap",
-    "bpm": 150.0,
-    "compasso": "4/4",
-    "compassosFonteABCD": [
-      6,
-      6,
-      6,
-      6
-    ],
-    "referenciaPorTempo": [
-      6,
-      3,
-      5,
-      6
-    ],
-    "substituicoesABCD": [
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 5
-        }
-      ],
-      [
-        {
-          "tempo": 2,
-          "compassoFonte": 3
-        },
-        {
-          "tempo": 3,
-          "compassoFonte": 5
-        }
-      ]
-    ],
     "viradas": 3,
-    "conferenciaMusical": "pendente"
+    "fonte": "assets/ritmos/hip-hop/trap-150.wav",
+    "metrica": "4/4",
+    "conferenciaAuditiva": "pendente"
   }
 ]
